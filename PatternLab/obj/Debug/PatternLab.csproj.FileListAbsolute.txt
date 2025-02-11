@@ -1,0 +1,8 @@
+E:\vsRepos\PatternLab\PatternLab\bin\Debug\PatternLab.exe.config
+E:\vsRepos\PatternLab\PatternLab\bin\Debug\PatternLab.exe
+E:\vsRepos\PatternLab\PatternLab\bin\Debug\PatternLab.pdb
+E:\vsRepos\PatternLab\PatternLab\obj\Debug\PatternLab.csproj.AssemblyReference.cache
+E:\vsRepos\PatternLab\PatternLab\obj\Debug\PatternLab.csproj.SuggestedBindingRedirects.cache
+E:\vsRepos\PatternLab\PatternLab\obj\Debug\PatternLab.csproj.CoreCompileInputs.cache
+E:\vsRepos\PatternLab\PatternLab\obj\Debug\PatternLab.exe
+E:\vsRepos\PatternLab\PatternLab\obj\Debug\PatternLab.pdb
